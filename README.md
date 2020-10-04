@@ -96,3 +96,4 @@
     * ### Adobe Acrobat
     * ### TRNSYS
     * ### Anaconda
+    * ### OBS Studio
