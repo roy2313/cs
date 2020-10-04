@@ -32,4 +32,67 @@
     ### 30. CS 7643: Deep Learning
     
 * ## Tools
+    * ### C
+    * ### C#
+    * ### C++
     * ### Java
+    * ### Python
+    * ### Visual Basic
+    * ### Visual C++
+    * ### HTML 5
+    * ### CSS
+    * ### PHP
+    * ### ASP.Net
+    * ### JavaScript
+    * ### MySQL
+    * ### SQL Server
+    * ### Oracle    
+    * ### Linux
+    * ### Android Studio
+    * ### Eclipse
+    * ### Objective C
+    * ### Swift
+    * ### Julia
+    * ### R
+    * ### Fortran
+    * ### Mathematica
+    * ### MATLAB
+    * ### LAMP
+    * ### Markdown
+    * ### Git
+    * ### GitHub
+    * ### LaTeX
+    * ### COMSOL
+    * ### Lumerical
+    * ### Ansys
+    * ### ABAQUS
+    * ### CATIA
+    * ### SolidWorks
+    * ### Inventor
+    * ### Microsoft Visual Studio
+    * ### CST
+    * ### Origin
+    * ### QT
+    * ### Microsoft Project
+    * ### Mindjet
+    * ### Star CCM+
+    * ### Labview
+    * ### Microsoft Visio
+    * ### Lucidchart
+    * ### Simulink
+    * ### Silvaco TCAD
+    * ### LTspice
+    * ### VS Code
+    * ### PyCharm
+    * ### VM VirtualBox
+    * ### Ultimaker Cura
+    * ### Mendeley
+    * ### OneNote
+    * ### FSCapture
+    * ### Adobe Premiere
+    * ### Photoshop
+    * ### HyperMesh
+    * ### Fluent
+    * ### Adobe Acrobat
+    * ### TRNSYS
+    * ### Anaconda
