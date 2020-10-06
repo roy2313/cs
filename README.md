@@ -1,6 +1,6 @@
 # CS
 * ## 30门课
-    ### 1. CS 6750: Human-Computer Interaction
+    ### CS 6750: Human-Computer Interaction
     ### 2. CS 6460: Educational Technology
     ### 3. CS 6250: Computer Networks
     ### 4. CS 6300: Software Development Process
