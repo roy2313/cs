@@ -6,7 +6,7 @@
     * ### 4. CS 6300: Software Development Process
     * ### [5. CS 7646: Machine Learning for Trading](cs7646/781QBank.pdf)
     * ### [6. CS 6515: Intro to Graduate Algorithms](https://docs.google.com/spreadsheets/d/1PJmaIkWIrbk7P9yrR_kSVXnVXwQgPoy1CP1bodLPess/edit#gid=0)
-    * ### 7. CS 6601: Artificial Intelligence
+    * ### [7. CS 6601: Artificial Intelligence](https://docs.google.com/spreadsheets/d/1jR-KhutJynbIBX2fCM-utHeYDg7ICMnww7Ke-jhqWUM/edit#gid=0)
     * ### 8. CS 7637: Knowledge-Based Artificial Intelligence
     * ### 9. CS 7641: Machine Learning
     * ### 10. CS 7642: Reinforcement Learning
