@@ -4,7 +4,7 @@
     * ### 2. CS 6460: Educational Technology
     * ### 3. CS 6250: Computer Networks
     * ### 4. CS 6300: Software Development Process
-    * ### [5. CS 7646: Machine Learning for Trading](https://docs.google.com/spreadsheets/d/1Eg8aZd9J8kDGLsJ1LzBZNx8vCMC-UDM3FoohjDW6Q5s/edit#gid=0)   [ [781道题](cs7646/781QBank.pdf)   ]
+    * ### [5. CS 7646: Machine Learning for Trading](https://docs.google.com/spreadsheets/d/1Eg8aZd9J8kDGLsJ1LzBZNx8vCMC-UDM3FoohjDW6Q5s/edit#gid=0)   [[781道题](cs7646/781QBank.pdf)]
     * ### [6. CS 6515: Intro to Graduate Algorithms](https://docs.google.com/spreadsheets/d/1PJmaIkWIrbk7P9yrR_kSVXnVXwQgPoy1CP1bodLPess/edit#gid=0)
     * ### [7. CS 6601: Artificial Intelligence](https://docs.google.com/spreadsheets/d/1jR-KhutJynbIBX2fCM-utHeYDg7ICMnww7Ke-jhqWUM/edit#gid=0)
     * ### [8. CS 7637: Knowledge-Based Artificial Intelligence](https://docs.google.com/spreadsheets/d/1B04JtYJg_TchMii-2g4SKxdSLbLGNbvggdIZArcV1w0/edit#gid=0)
